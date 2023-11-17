@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
                 icon: Icon(Icons.catching_pokemon_rounded),
               ),
               BottomNavigationBarItem(
-                label: 'sleep',
+                label: 'bed',
                 icon: Icon(Icons.airline_seat_individual_suite_rounded),
               ),
             ],
